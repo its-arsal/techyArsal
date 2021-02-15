@@ -6,10 +6,12 @@ and I am a software engineering student from Pakistan. Currenty, I am a member o
 **Full Stack** Web App development. I am also teaching computer science in a
 local academy since the last 2 years. Plus, I have also got the
 **Cisco Networking Essentials** certification.
-<br>
-Beside that, I am an open-source enthusiast and using [Arch Linux](https://archlinux.org)
+
+Besides that, I am an open-source enthusiast and using [Arch Linux](https://archlinux.org)
 as my main operating-system and [OpenWRT](https://openwrt.org/) on my 10yo pc
 to use it as my router and load-balancer.
+
+<hr>
 
 Here's some more info on me:
 
