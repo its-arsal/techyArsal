@@ -13,7 +13,7 @@ and use it as my router & load-balancer.
 
 ---
 
-Here's some more info on me:
+#### Here's some more info on me:
 
 - 🔭 I’m currently working on my **dotfiles** repo and some basic **reactjs** projects.
 
@@ -33,7 +33,7 @@ same social handle (**techyArsal**).
 
 ---
 
-### <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/medium.svg" /> Latest Medium Posts
+### <img height="32" width="32" alt="Medium-logo" src="https://unpkg.com/simple-icons@v4/icons/medium.svg" /> Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
 - [Hello Internet!](https://medium.com/@techyarsal/hello-internet-6e840157ef75?source=rss-c4d6c427b2ef------2)
 <!-- BLOG-POST-LIST:END -->
