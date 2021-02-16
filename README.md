@@ -33,7 +33,7 @@ same social handle (**techyArsal**).
 
 ---
 
-### Latest Medium Posts
-<!--BLOG-POST-LIST:START -->
-<!--BLOG-POST-LIST:END -->
+### 📕 Latest Medium Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
