@@ -33,7 +33,7 @@ same social handle (**techyArsal**).
 
 ---
 
-### 📕 Latest Medium Posts
+### <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/medium.svg" /> Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
