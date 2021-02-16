@@ -9,9 +9,9 @@ local academy since the last 2 years. Plus, I have also got the
 
 Besides that, I am an open-source enthusiast and using [Arch Linux](https://archlinux.org)
 as my main operating-system and [OpenWRT](https://openwrt.org/) on my 10yo pc
-to use it as my router and load-balancer.
+and use it as my router & load-balancer.
 
-<hr>
+---
 
 Here's some more info on me:
 
@@ -30,4 +30,10 @@ everything I have learned so far.
 
 - 📫 How to reach me: You can find me on any of the social platforms using the
 same social handle (**techyArsal**).
+
+---
+
+### Latest Medium Posts
+<!--BLOG-POST-LIST:START -->
+<!--BLOG-POST-LIST:END -->
 
