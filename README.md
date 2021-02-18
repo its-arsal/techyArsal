@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Welcome to my github profile. My name is [Arslan Ali](https://github.com/techyArsal)
+Welcome to my github profile. My name is [Arslan Ali][github]
 and I am a software engineering student from Pakistan. Currenty, I am a member of
-[Jadu Fellowship](https://jadujobs.com) program and having mentorship for
+[Jadu Fellowship][jadu] program and having mentorship for
 **Full Stack** Web App development.
 
-Besides that, I am an open-source enthusiast and using [Arch Linux](https://archlinux.org)
-as my main operating-system and [OpenWRT](https://openwrt.org/) on my 10yo pc
+Besides that, I am an open-source enthusiast and using [Arch Linux][arch]
+as my main operating-system and [OpenWRT][openwrt] on my 10yo pc
 and use it as my router & load-balancer.
 
 #### Here's some more info on me:
@@ -26,39 +26,37 @@ and use it as my router & load-balancer.
 
 Connect with me:
 
-<a href="https://twitter.com/techyArsal" style="padding:2rem;">
-<img
-        width="32"
-        alt="Twitter-logo"
-        src="https://upload.wikimedia.org/wikipedia/en/9/9f/Twitter_bird_logo_2012.svg"
-/>
-</a>
+[<img
+    width="22"
+    align="left"
+    style="margin-right:10px"
+    alt="Twitter-logo"
+    src="https://upload.wikimedia.org/wikipedia/en/9/9f/Twitter_bird_logo_2012.svg"
+/>][twitter]
+[<img
+    width="22"
+    align="left"
+    style="margin-right:10px"
+    alt="Facebook-logo"
+    src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"
+/>][facebook]
+[<img
+    width="22"
+    align="left"
+    style="margin-right:10px"
+    alt="LinkedIn-logo"
+    src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
+/>][linkedin]
 
-<a href="https://facebook.com/techyArsal" style="padding-right:2rem;">
-<img
-        width="32"
-        alt="Facebook-logo"
-        src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"
-/>
-</a>
+[<img
+    width="22"
+    align="left"
+    style="margin-right:10px"
+    alt="Medium-logo"
+    src="https://unpkg.com/simple-icons@v4/icons/medium.svg"
+/>][medium]
 
-<a href="https://www.linkedin.com/in/techyArsal/" style="padding-right:2rem;">
-<img
-        width="32"
-        alt="LinkedIn-logo"
-        src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
-/>
-</a>
-
-<a href="https://techyArsal.medium.com/" style="padding-right:2rem;">
-<img
-        width="32"
-        alt="Medium-logo"
-        src="https://unpkg.com/simple-icons@v4/icons/medium.svg"
-/>
-</a>
-
----
+## <br />
 
 ### :pencil: Latest Medium Posts
 
@@ -66,3 +64,12 @@ Connect with me:
 
 - [Hello Internet!](https://medium.com/@techyarsal/hello-internet-6e840157ef75?source=rss-c4d6c427b2ef------2)
 <!-- BLOG-POST-LIST:END -->
+
+[github]: https://github.com/techyArsal/
+[facebook]: https://facebook.com/techyArsal/
+[twitter]: https://twitter.com/techyArsal/
+[linkedin]: https://www.linkedin.com/in/techyArsal/
+[medium]: https://techyArsal.medium.com/
+[jadu]: https://jadujobs.com/
+[arch]: https://archlinux.org/
+[openwrt]: https://openwrt.org/
