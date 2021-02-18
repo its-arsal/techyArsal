@@ -63,6 +63,5 @@ Connect with me:
 ### :pencil: Latest Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Hello Internet!](https://medium.com/@techyarsal/hello-internet-6e840157ef75?source=rss-c4d6c427b2ef------2)
 <!-- BLOG-POST-LIST:END -->
