@@ -61,11 +61,11 @@ Connect with me:
 ### :pencil: Latest Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Week 5 with Jadu Fellowship Program](https://medium.com/@techyarsal/week-5-with-jadu-fellowship-program-21bdb1b1b46f?source=rss-c4d6c427b2ef------2)
 - [First Month with Jadu Fellowship Program](https://medium.com/@techyarsal/first-month-with-jadu-fellowship-program-162e59032d88?source=rss-c4d6c427b2ef------2)
 - [My Week-3 with Jadu Fellowship Program](https://medium.com/@techyarsal/my-week-3-with-jadu-fellowship-program-7a5356dfd1d5?source=rss-c4d6c427b2ef------2)
 - [My Second Week with Jadu Fellowship Program](https://medium.com/@techyarsal/my-second-week-with-jadu-fellowship-program-da547dec84b7?source=rss-c4d6c427b2ef------2)
 - [How to setup Git the proper way! — Part-3: Setting up ssh-agent and public email](https://medium.com/@techyarsal/how-to-setup-git-the-proper-way-part-3-setting-up-ssh-agent-and-public-email-b2b3c7a4e5ff?source=rss-c4d6c427b2ef------2)
-- [How to setup Git the proper way! — Part 2: Setting up SSH Key](https://medium.com/@techyarsal/how-to-setup-git-the-proper-way-part-2-setting-up-ssh-key-ef745e5e8bfb?source=rss-c4d6c427b2ef------2)
 <!-- BLOG-POST-LIST:END -->
 
 [github]: https://github.com/techyArsal/
