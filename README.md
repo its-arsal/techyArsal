@@ -61,11 +61,11 @@ Connect with me:
 ### :pencil: Latest Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Week 8 with Jadu Fellowship Program](https://techyarsal.medium.com/week-8-with-jadu-fellowship-program-51d3cd01dd00?source=rss-c4d6c427b2ef------2)
 - [Week 7 with Jadu Fellowship Program](https://techyarsal.medium.com/week-7-with-jadu-fellowship-program-53c452b3f4c?source=rss-c4d6c427b2ef------2)
 - [Week 6 with Jadu Fellowship Program](https://techyarsal.medium.com/week-6-with-jadu-fellowship-program-99c107842f3e?source=rss-c4d6c427b2ef------2)
 - [Week 5 with Jadu Fellowship Program](https://techyarsal.medium.com/week-5-with-jadu-fellowship-program-21bdb1b1b46f?source=rss-c4d6c427b2ef------2)
 - [First Month with Jadu Fellowship Program](https://techyarsal.medium.com/first-month-with-jadu-fellowship-program-162e59032d88?source=rss-c4d6c427b2ef------2)
-- [My Week-3 with Jadu Fellowship Program](https://techyarsal.medium.com/my-week-3-with-jadu-fellowship-program-7a5356dfd1d5?source=rss-c4d6c427b2ef------2)
 <!-- BLOG-POST-LIST:END -->
 
 [github]: https://github.com/techyArsal/
